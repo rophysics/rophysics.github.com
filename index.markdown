@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 ---
-#Test
+#About
 
 ## Cannot creat index page
 
