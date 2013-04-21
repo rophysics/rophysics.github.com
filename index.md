@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Hello, World!
 ---
 {% include JB/setup %}
 
@@ -8,6 +9,6 @@ layout: page
 {{ post.date | date_to_string }}
 {{ post.content }}
 
-<a href="{{ post.url }}">comment</a>
+<p><a href="{{ post.url }}">comment</a></p>
 
 {% endfor %}
