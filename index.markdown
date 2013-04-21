@@ -1,12 +1,6 @@
 ---
-layout: default
+layout: page
+title: About
 ---
-#About
-
-## Cannot creat index page
-
-Reasons
-
-* first
-* second
-* third
+A radiation technician interested in medical images, physics and web technologies.
+Born in 1980s, located in Beijing.
