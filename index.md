@@ -6,9 +6,6 @@ tagline: liang
 {% include JB/setup %}
 
 {% for post in site.posts limit:2 %}
-{{ post.date }}
+{{ post.title }}
 {{ post.content }}
-
-<p><a href="{{ post.url }}">comment</a></p>
-
 {% endfor %}
