@@ -1,5 +1,11 @@
 ---
 layout: default
 ---
-A radiation technician interested in medical images, physics and web technologies.
-Born in 1980s, located in Beijing.
+{% for post in site.posts limit:5 %}
+<div>
+	{{ post.title }}
+	{{ post.date }}
+	{{ post.content }}
+	
+</div>
+{% endfor %}
