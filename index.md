@@ -5,13 +5,12 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-<h2>Recent 2 posts</h2>
-
-{% for post in site.posts limit:2 %}
-<div>
+{% for post in site.posts limit:1 %}
+{{ post.title}}
+{{ post.tagline }}
+{{ post.date | date_to_string }}
 {{ post.content }}
-<p>
-<a href="{{ post.url }}">read more </a>
-</p>
-</div>
+
+<a href="{{ post.url }}">comment</a>
+
 {% endfor %}
