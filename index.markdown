@@ -7,7 +7,7 @@ layout: default
 	<b>{{ post.date| date_to_string }}</b>
 	
 	{{ post.content }}
-***
 	
 </div>
+-------------------------
 {% endfor %}
