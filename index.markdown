@@ -9,6 +9,6 @@ layout: default
 	{{ post.content }}
 	
 </div>
-<a href="http://liangzhao.org/archive.html"><h2>阅读更早的文章</h2></a>
 -------------------------
 {% endfor %}
+<a href="http://liangzhao.org/archive.html"><h2>阅读更早的文章</h2></a>
