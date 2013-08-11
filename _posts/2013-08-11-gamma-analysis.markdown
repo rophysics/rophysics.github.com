@@ -1,12 +1,6 @@
 ---
 layout: post
-category: radiotherapy
-tags:
-	- dose evaluation
-	- gamma analysis
 title: 剂量验证中的γ分析
-author: liangzhao
-modified: 2013-08-11
 ---
 在放射治疗中，我们必须保证TPS中计算的剂量分布与实际在人体中沉积的一致，所以需要进行剂量验证分析，现在普遍使用的是γ分析（gamma analysis），为解释这个概念，有必要先说一下先前的两种剂量分析方法，即DD法（Dose-difference）和DTA法（Distance-to-agreement），这两种方法非常容易理解：  
 
