@@ -3,5 +3,7 @@ layout: post
 title: CT值和相对电子密度
 category: radiation
 ---
-根据阿伏伽德罗定律，每mol物质中原子数是一样的，即阿伏伽德罗常数N， 而每mol物质的质量为它的相对原子（分子）质量M（g)，所以每克电子数为![equation](http://latex.codecogs.com/gif.latex?1%2Bsin%28mc%5E2%29%0D%0A)，那么每克电子数则为![][2]，因为所有元素（除了氢元素），Z/M的值都近似为0.  5（随原子序数增加略有减小），因此各种材料的每克电子数都非常接近，单位体积的电子数，我们乘以一个密度就可以得到，为![][3]。对于一些化合物（如水分子）或混合物的电子密度计算，需要先算出各种元素所占的质量份额，根据这个比例得到1g物质中各种元素的电子总数，最后根据得到的每克电子数乘以物质的密度，得到单位体积的电子数了。   
-  [2]: http://latex.codecogs.com/gif.latex?1%2Bsin%28mc%5E2%29%0D%0A "loading"
+根据阿伏伽德罗定律，每mol物质中原子数是一样的，即阿伏伽德罗常数N， 而每mol物质的质量为它的相对原子（分子）质量M（g)，所以每克原子数为![equation][1]，那么每克电子数则为![equation][2]，因为所有元素（除了氢元素），Z/M的值都近似为0.  5（随原子序数增加略有减小），因此各种材料的每克电子数都非常接近，单位体积的电子数，我们乘以一个密度就可以得到，为![equation][3]。对于一些化合物（如水分子）或混合物的电子密度计算，需要先算出各种元素所占的质量份额，根据这个比例得到1g物质中各种元素的电子总数，最后根据得到的每克电子数乘以物质的密度，得到单位体积的电子数了。   
+  [1]: http://latex.codecogs.com/gif.latex?\inline&space;\frac{N_{A}}{M_{A}} "atom number per gram"
+  [2]: http://latex.codecogs.com/gif.latex?\inline&space;\frac{N_{A}}{M_{A}}Z "electron number per gram"
+  [3]: http://latex.codecogs.com/gif.latex?\inline&space;\frac{N_{A}}{M_{A}}Z\rho "electron density"
