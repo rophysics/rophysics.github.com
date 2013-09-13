@@ -10,5 +10,5 @@ liangzhao6(at)gmail(dot)com
 
 我最喜欢的两句话是：  
 > It's not that we don't dare do things because they are difficult; rather, they are difficult because we don't dare. (Seneca)  
-
-> Always trt the problem that matters most to you. (Andrew Wiles)
+人的生命是有限的，所以Andrew Wiles说：  
+> Always try the problem that matters most to you. (Andrew Wiles)  
