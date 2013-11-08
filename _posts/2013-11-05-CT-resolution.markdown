@@ -2,7 +2,7 @@
 layout: post
 title: CT的密度分辨力和空间分辨力
 category: radiation
-tags: radiation physics
+tags: radiation-physics
 ---
 最近参加CT考试，经常看到图像处理方面常用的两个参数，即空间分辨力（spatial resolution）和密度分辨力(contrast resolution)，有些书里又叫空间分辨率和密度分辨率，这两个概念容易混淆，且在这里区别总结一下：  
 
