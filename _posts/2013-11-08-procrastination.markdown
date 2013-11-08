@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 关于要事优先
+title: 关于拖延
 category: life
 tags: lifestyle
 ---
