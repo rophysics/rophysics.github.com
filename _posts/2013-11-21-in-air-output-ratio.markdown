@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 空气输出因子及测量测量
+title: 空气输出因子及测量
 category: radiation
 tags: radiation
 ---
