@@ -45,7 +45,7 @@ tags: radiation
 [1]: http://latex.codecogs.com/gif.latex?\inline&space;S_{c}
 [2]: http://latex.codecogs.com/gif.latex?\inline&space;S_{p}
 [3]: http://latex.codecogs.com/gif.latex?\inline&space;K_{Q}
-[4]: http://farm6.staticflickr.com/5488/10963163155_c116b8406a_n.jpg
+[4]: http://farm3.staticflickr.com/2866/11047643343_a21caca98f_n.jpg
 [5]: http://farm8.staticflickr.com/7443/10963403803_f0ae7e47eb.jpg
 [6]: http://jrr.oxfordjournals.org/content/early/2013/01/03/jrr.rrs118.full.pdf
 [7]: http://www.aapm.org/pubs/reports/RPT_97.pdf
