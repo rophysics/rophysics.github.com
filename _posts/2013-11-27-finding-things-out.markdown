@@ -22,8 +22,10 @@ BBC对费曼的采访可以[在这里][4]（优酷）看到，我下载的访谈
 
 [ZenPencils][6]最近将费曼的这番话画成了漫画，还有人做成了[动画][8](需翻墙)，都非常有趣。  
 
-<div style="text-align:center" markdown="1">
+<div style="text-align:center" markdown="1">  
+
 ![flower][7]  
+  
 </div>  
 
 ####关于人文学科  

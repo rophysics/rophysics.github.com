@@ -4,7 +4,10 @@ title: About
 head: About
 group: navigation
 ---
-<div style="float: right"><img src="http://farm4.staticflickr.com/3706/11398363193_47c8d87619_n.jpg" /></div>
+<div style="float: right">
+	<img src="http://farm4.staticflickr.com/3706/11398363193_47c8d87619_n.jpg" /><br/>
+	2013.9 海坨山
+</div>
 
 这是一个记录我学习、生活的个人网站。我平时比较喜欢爬山和跑步。  
 
