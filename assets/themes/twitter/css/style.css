@@ -63,3 +63,14 @@
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+
+.imgright {
+  float: right;
+  margin-left: 20px;
+}
+
+.imgcenter {
+  width: 100%!important;
+  display:block!important;
+  text-align: center;
+}
