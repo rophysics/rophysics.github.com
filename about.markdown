@@ -13,7 +13,7 @@ group: navigation
 
 你可以通过以下方式联系到我：   
 
-liangzhao6\<AT>gmail.com  
+liangzhao6 AT gmail.com  
  
 
 喜欢的两句话：  
