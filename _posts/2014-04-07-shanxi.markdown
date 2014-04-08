@@ -5,7 +5,7 @@ category: travel
 tags: time
 author: liangzhao
 ---
-![][5]  
+<span class="imgcenter">![][5]</span>  
 
 清明去了祁县的[乔家大院][1]和[平遥古城][2], 最大的感触不在于风景，而是体验到了时间是最大的成本。  
 
@@ -18,7 +18,7 @@ author: liangzhao
 - [《关于拖延》][3]里说，要对每件事花费的时间有精准的意识，这是一个重要的习惯  
 - 今天知道一个词，叫“屏奴”，指的是长时间盯着屏幕的一族，对眼睛损伤很严重，为什么可看[优酷][4]的这个视频  
 
-图片来自tumblr, 语出 George R.R.Martin，《 A Dance with Dragons》  
+图片来自Tumblr, 语出 George R.R.Martin，《 A Dance with Dragons》  
 
 [1]: http://baike.baidu.com/subview/7616/5340651.htm?fromId=7616&from=rdtself&fr=wordsearch
 [2]: http://baike.baidu.com/link?url=VC6Ipv5KuDSI8hk0WR22HMCcBtGfhoWKwRkKxI9fo5dzNfx9-9vk-RN475_8o55n
