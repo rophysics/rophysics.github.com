@@ -22,4 +22,4 @@ author: liangzhao
 
 [1]: http://jandan.net/2014/04/04/pronounce-daddy.html
 [2]: http://www.xinli001.com/info/8401/
-[3]: http://tankr.net/s/medium/8CJ4.jpg
+[3]: https://farm8.staticflickr.com/7397/14033635955_7a614eee3b.jpg
