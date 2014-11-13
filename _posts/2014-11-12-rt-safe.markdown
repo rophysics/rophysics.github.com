@@ -10,38 +10,38 @@ tags: radiation
 做放疗的，和做影像的（放射科），做介入的要遵照一个放射防护标准，即GB18871-2002，这其中说明了职业照射的个人剂量限定：
 
 <p>
-	<table class="table table-bordered table-striped table-condensed" width="299" height="209" style="width:224.25pt;">
+	<table class="table table-bordered table-striped table-condensed" >
 		<tbody>
 			<tr>
-				<td class="et2" height="38" width="72" style="font-size:12pt;vertical-align:middle;">
+				<td style="font-size:12pt;vertical-align:middle;">
 					应用目的
 				</td>
-				<td class="et2" height="38" width="72" style="font-size:12pt;vertical-align:middle;">
+				<td style="font-size:12pt;vertical-align:middle;">
 					应用类别
 				</td>
-				<td class="et2" height="38" width="155" style="font-size:12pt;vertical-align:middle;">
+				<td style="font-size:12pt;vertical-align:middle;">
 					职业工作者年剂量限值
 				</td>
 			</tr>
 			<tr>
-				<td class="et2" height="95" width="72" style="font-size:12pt;vertical-align:middle;">
+				<td style="font-size:12pt;vertical-align:middle;">
 					尽可能合理降低随机性效应的发生概率
 				</td>
-				<td class="et2" height="95" width="72" style="font-size:12pt;vertical-align:middle;">
+				<td style="font-size:12pt;vertical-align:middle;">
 					全身有效剂量
 				</td>
-				<td class="et2" height="95" width="155" style="font-size:12pt;vertical-align:middle;">
+				<td style="font-size:12pt;vertical-align:middle;">
 					连续5年平均不超过20mSv,其中任何一年可达50mSv
 				</td>
 			</tr>
 			<tr>
-				<td class="et2" height="76" width="72" style="font-size:12pt;vertical-align:middle;">
+				<td style="font-size:12pt;vertical-align:middle;">
 					有效防止发生确定性效应
 				</td>
-				<td class="et2" height="76" width="72" style="font-size:12pt;vertical-align:middle;">
+				<td style="font-size:12pt;vertical-align:middle;">
 					器官当量：眼晶体/手足和皮肤&nbsp;
 				</td>
-				<td class="et2" height="76" width="155" style="font-size:12pt;vertical-align:middle;">
+				<td style="font-size:12pt;vertical-align:middle;">
 					150mSv/500mSv&nbsp;
 				</td>
 			</tr>
