@@ -14,9 +14,9 @@ DD比的是剂量差别，用测到的点的剂量与其位置相对应的计算
 
 这种思想可以用在其他QA上，比如测量加速器输出稳定性时，有一个时间γ分析，这里将距离的概念替换成时间，因此γ的定义就变为： 
 
-![tima gama analysis][2]
+<span class="imgcenter">![tima gama analysis][2]</span>
 
 参考论文：[A technique for the quantitative evaluation of dose distributions] [1]   
   [1]: http://personal.us.es/alberto/ffisim/material/gamma_index.pdf "Reference"
 
- [2]: https://farm8.staticflickr.com/7479/15191234054_7ceb1de2e9_s.jpg
+ [2]: https://farm8.staticflickr.com/7479/15191234054_b34b24198b_o.jpg
