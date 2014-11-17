@@ -12,49 +12,20 @@ layout: default
 <hr>
 {% endfor %}
 
-<div class="pagination">
-  <ul>
-  {% if page.previous %}
-    <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></li>
-  {% else %}
-    <li class="prev disabled"><a>&larr; Previous</a></li>
-  {% endif %}
-    <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
-  {% if page.next %}
-    <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a></li>
-  {% else %}
-    <li class="next disabled"><a>Next &rarr;</a>
-  {% endif %}
-  </ul>
-</div>
 
 <!-- Pagination links -->
 <div class="pagination">
 <ul>
   {% if paginator.previous_page %}
-    <li class="prev"><a href="/page{{paginator.previous_page}}" >Previous</a></li>
+    <li class="prev"><a href="/page{{paginator.previous_page}}" >&larr; Previous</a></li>
   {% else %}
-    <li class="prev disabled"><a>Previous</a></li>
+    <li class="prev disabled"><a>&larr; Previous</a></li>
   {% endif %}
-  <li>Page: {{paginator.page}} of {{paginator.total_pages}}</li>
+  <li><a>Page: {{paginator.page}} of {{paginator.total_pages}}</a></li>
   {% if paginator.next_page %}
-     <li class="next"><a href="/page{{paginator.next_page}}">Next</a></li>
+     <li class="next"><a href="/page{{paginator.next_page}}">Next &rarr;</a></li>
   {% else %}
     <li class="next disabled"><a>Next &rarr;</a>
   {% endif %}
 </ul>
-</div>
-
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="/page{{paginator.previous_page}}" class="previous">Previous</a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">Page: {{paginator.page}} of {{paginator.total_pages}}</span>
-  {% if paginator.next_page %}
-    <a href="/page{{paginator.next_page}}" class="next ">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
 </div>
