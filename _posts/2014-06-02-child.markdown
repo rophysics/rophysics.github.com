@@ -30,7 +30,7 @@ Update:
 
 看到[Quora][1]上有一个这样的问题。一个回答是：当他们摔倒的时候，他们会哭上一阵，然后拍拍身上的灰尘，继续玩儿。这说明孩子们往往将注意力集中到让他们开心的事上，而不是伤心的事上；此外，玩儿比赢更重要。这是对待生活的态度。  
 
-![Wisdom from child][2]  
+<span class="imgcenter">![Wisdom from child][2]</span>
 
 Source: [www.phdcomics.com/][3]
 
